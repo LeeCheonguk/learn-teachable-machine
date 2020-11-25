@@ -1,1 +1,1 @@
-demo : https://github.com/LeeCheonguk/learn-teachable-machine
+demo : https://leecheonguk.github.io/learn-teachable-machine/
