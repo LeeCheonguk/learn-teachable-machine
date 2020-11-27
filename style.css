@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  background: rgba(0, 191, 255);
+  background: rgba(0, 191, 255, 1);
   width: 380px;
   padding: 20px;
   position: relative;
