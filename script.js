@@ -52,8 +52,11 @@ async function predict() {
     const probability = prediction[i].probability.toFixed(2) * 100;
 
     const data = {
-      Cup: '이것은 Cup입니다',
-      Me: '이것은 Me입니다',
+      Nothing: '구매할 제품을 카메라에 대주세요',
+      Moncher: '800원입니다',
+      Whitehaselnut: '800원입니다',
+      Freetime:'600원입니다',
+      Candy:'500원입니다',
     };
 
     if (probability >= 75) {
