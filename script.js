@@ -55,8 +55,8 @@ async function predict() {
       Nothing: '구매할 제품을 카메라에 대주세요',
       Moncher: '800원입니다',
       Whitehaselnut: '800원입니다',
-      Freetime:'600원입니다',
-      Candy:'500원입니다',
+      Freetime: '600원입니다',
+      Candy: '500원입니다',
     };
 
     if (probability >= 75) {
