@@ -42,19 +42,26 @@ body {
 
 .name {
   text-align: center;
-  margin-top: 20px;
-  font-size: 20px;
-  font-weight: bold;
+  margin-top: 1px;
+  font-size: 40px;
+  font-weight: 900;
+  font-family: cursive;
+  color: bisque;
 }
 
 .percent {
-  text-align: center;
+  text-align: left;
   font-size: 20px;
+  font-family: math;
+  color: crimson;
 }
 
 .description {
-  margin-top: 1px;
+  margin-top: 10px;
   padding: 1px;
+  font-size: medium;
+  font-family: -webkit-pictograph;
+  color: azure;
 }
 
 .icon .invisible {
