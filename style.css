@@ -1,5 +1,6 @@
 body {
   display: flex;
+  background: rgba(200, 100, 0, 1);
   justify-content: center;
 }
 
@@ -32,6 +33,7 @@ body {
 }
 
 .camera {
+  background-color: #ff6;
   width: 380px;
   height: 380px;
   box-shadow: 2px 2px 4px rgba(100, 200, 0, 1);
